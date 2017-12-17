@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HcA22Mjc91J/JzDB2DIszW7BQRY=",
+			"path": "github.com/uber-go/zap",
+			"revision": "f85c78b1dd998214c5f2138155b320a4a43fbe36",
+			"revisionTime": "2017-10-30T23:38:06Z"
+		}
+	],
+	"rootPath": "github.com/rockdragon/go-practice"
+}
