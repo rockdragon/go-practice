@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "Qjxv//Bthhr8qHja7rXXpkZxUsg=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "a816f9e9dbf820d7d01e8d363539da976fb8aa40",
+			"revisionTime": "2017-12-21T03:00:17Z"
+		},
+		{
 			"checksumSHA1": "HcA22Mjc91J/JzDB2DIszW7BQRY=",
 			"path": "github.com/uber-go/zap",
 			"revision": "f85c78b1dd998214c5f2138155b320a4a43fbe36",

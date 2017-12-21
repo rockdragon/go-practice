@@ -1,0 +1,12 @@
+{
+  "level": "debug",
+  "encoding": "json",
+  "outputPaths": ["stdout", "./logs/app.log"],
+  "errorOutputPaths": ["stderr"],
+  "initialFields": {"app": "go-practice"},
+  "encoderConfig": {
+    "messageKey": "message",
+    "levelKey": "level",
+    "levelEncoder": "lowercase"
+  }
+}
